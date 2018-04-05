@@ -1,5 +1,5 @@
-##Done By:
+## Done By:
 
-###ID: 		U1610041
-###Name: 	Azizbek Kobilov
-###Group: CSE 16-11
+- **ID:** 		U1610041
+- **Name:** 	Azizbek Kobilov
+- **Group:** CSE 16-11
